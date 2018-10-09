@@ -4,11 +4,11 @@ Pod::Spec.new do |s|
   s.version      = "1.0.1"
   s.summary      = "GEOSwiftMapboxGL is adds MapBoxGL to GEOSwift."
 
-  s.homepage     = "https://github.com/GEOSwift/GEOSwiftMapboxGL"
+  s.homepage     = "https://github.com/srgray/GEOSwiftMapboxGL"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "GEOSwift team" => "https://github.com/orgs/GEOSwift/people" }
 
-  s.source       = { :git => "https://github.com/GEOSwift/GEOSwiftMapboxGL.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/srgray/GEOSwiftMapboxGL.git", :tag => s.version }
   s.source_files = "GEOSwiftMapboxGL/*"
 
   s.platform     = :ios, "8.0"
